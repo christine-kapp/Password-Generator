@@ -1,3 +1,3 @@
 # Password-Generator-
 
-Password Random Character Generator: A password generator that allows users to select their choice length of password to be randomly generated
+Password Random Character Generator: A Password Generator That Allows Users To Select Their Choice Length Of Password To Be Randomly Generated
